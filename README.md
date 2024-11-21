@@ -71,15 +71,6 @@ Oi, sou a Brenda Eising, tenho 20 anos e sou de Blumenau, Santa Catarina. Conclu
 
 ### ⋮ Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=brendaeising&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
