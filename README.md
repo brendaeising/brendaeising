@@ -52,6 +52,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Tenha+um+ótimo+dia!+😊;" />
 </h1>
 
- ![Snake animation](https://github.com/brendaeising/brendaeising/blob/output/github-contribution-grid-snake.svg)
- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=brendaeising&repo=brendaeising&theme=react)](https://github.com/brendaeising/brendaeising)
+![Snake animation](https://github.com/brendaeising/brendaeising/blob/output/github-contribution-grid-snake.svg)
+![readme](https://github-readme-stats.vercel.app/api/pin/?username=brendaeising&repo=brendaeising&theme=react)
+
 
